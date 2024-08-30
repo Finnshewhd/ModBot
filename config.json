@@ -1,0 +1,9 @@
+{
+    "token": "Hier token einfügen",
+    "prefix": "?",
+    "admin_role": "Admin",
+    "moderator_role": "Moderator",
+    "spam_threshold": 5,
+    "spam_timeframe": 10,
+    "warn_limit": 3
+}
